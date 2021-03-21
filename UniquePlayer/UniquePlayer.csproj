@@ -13,7 +13,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Mutagen.Bethesda" Version="0.27.2-prerelease1" />
-    <PackageReference Include="Mutagen.Bethesda.Synthesis" Version="0.17.3-prerelease" />
+    <PackageReference Include="Mutagen.Bethesda.Synthesis" Version="0.17.3.1-dev" />
     <PackageReference Include="Mutagen.Bethesda.FormKeys.SkyrimSE" Version="2.0.0-prerelease2" />
     <PackageReference Include="System.IO.Abstractions.TestingHelpers" Version="13.2.25" />
   </ItemGroup>
